@@ -1,4 +1,4 @@
-#igra pogodi broj game guess the number
+#igra pogodi broj
 #guess some number and give user to guess
 
 import random
